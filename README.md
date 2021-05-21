@@ -1,6 +1,6 @@
 # Semantic-Segmentation
 
-![Image]()
+![Image](https://github.com/saurabhkemekar/Semantic-Segmentation/blob/main/u-net-architecture.png)
 
 # Requirements
 * Python 3.8
