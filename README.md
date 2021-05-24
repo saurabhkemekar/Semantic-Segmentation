@@ -8,4 +8,5 @@ The Unet architecture consists of contracting and expansion paths. The contracti
 * Matplotlib 3.3.2
 * Tensorflow 2.4.1
 
+## Result
 ![Image](https://github.com/saurabhkemekar/Semantic-Segmentation/blob/main/Result.PNG)
